@@ -1,1 +1,1 @@
-<h1 align="center">NID-Arman</h1>
+<h1>NID-Arman</h1>
